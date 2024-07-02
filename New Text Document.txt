@@ -1,0 +1,23 @@
+HTML Basics:
+Understanding the structure of an HTML document.
+Common tags like <html>, <head>, <body>, <title>, and <meta>.
+Text Formatting:
+Tags for headings (<h1> to <h6>), paragraphs (<p>), and line breaks (<br>).
+Text styling tags like <b>, <i>, <u>, <strong>, and <em>.
+Links and Images:
+Creating hyperlinks using the <a> tag.
+Adding images with the <img> tag and understanding attributes like src and alt.
+Lists:
+Ordered lists (<ol>) and unordered lists (<ul>) with list items (<li>).
+Description lists using <dl>, <dt>, and <dd>.
+Tables:
+Constructing tables with <table>, <tr>, <td>, and <th>.
+Understanding table attributes like colspan and rowspan.
+Forms:
+Creating forms with the <form> tag.
+Using input types (<input>), text areas (<textarea>), and buttons (<button>).
+Semantic HTML:
+Using semantic tags like <header>, <footer>, <article>, <section>, and <nav> to improve the structure and accessibility of your HTML.
+Multimedia:
+Embedding videos with <video> and audio with <audio>.
+Understanding the attributes and controls for media elements.
